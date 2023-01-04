@@ -1,0 +1,38 @@
+*{
+    font-family: louis;
+}
+#navBar{
+    align-items: center;
+    text-align: center;
+    margin-left: 100px;
+    display: flex;
+    height: 100px;
+    width: 500px;
+    justify-content: center;
+    color: #000
+}
+body{
+    background-color: #FFF5EC; 
+}
+.Hcard{
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 53px;
+    text-align: center;
+    color: #EB596E;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.titleBouquetes{
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 53px;
+    text-align: center;
+    color: #EB596E;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
