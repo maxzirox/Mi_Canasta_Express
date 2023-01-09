@@ -1,5 +1,5 @@
-import Footer from './components/Footer/Footer.jsx';
-import PayMethods from './components/PayMethods/PayMethods.jsx';
+import Footer from './components/Footer/Footer';
+import PayMethods from './components/PayMethods/PayMethods';
 import Subscribe from './components/Subscribe/Subscribe';
 import Us from './components/Us/Us';
 import CarouselBanner from './components/Carousel/Carousel'
